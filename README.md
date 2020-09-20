@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 text summarization
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# pointer-generator-summarization
+>>>>>>> 1eaacb538f10009ad6c3c5212adda4bf862ab740
